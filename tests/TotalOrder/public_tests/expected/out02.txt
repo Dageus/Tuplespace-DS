@@ -1,0 +1,36 @@
+> OK
+OK
+OK
+
+> OK
+OK
+OK
+
+> OK
+[<vaga,sd,turno1>, <vaga,sd,turno2>]
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+[<vaga,sd,turno2>]
+
+> OK
+<vaga,sd,turno2>
+OK
+OK
+
+> OK
+[<vaga,sd,turno2>]
+
+> OK
+<vaga,sd,turno2>
+OK
+OK
+
+> OK
+[]
+
+> 

@@ -1,0 +1,1251 @@
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+OK
+<vaga,sd,turno1>
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+OK
+<vaga,sd,turno1>
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+OK
+<vaga,sd,turno1>
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+OK
+<vaga,sd,turno1>
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+OK
+<vaga,sd,turno1>
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> OK
+<vaga,sd,turno1>
+OK
+OK
+
+> 
